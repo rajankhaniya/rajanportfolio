@@ -11,7 +11,7 @@ const HomeInfo = ({ currentStage }) => {
           <span className='font-semibold mx-2 text-white'>Rajan</span>
           👋
           <br />
-          An Agriculture student from Nepal
+          I love coding😉 愛してます
         </h1>
         {/* <br />
         <Link to='/room' className='neo-brutalism-white neo-btn'>
